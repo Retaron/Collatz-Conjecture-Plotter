@@ -1,5 +1,5 @@
 # Collatz-Conjecture-Plotter
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://youtube.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 <n>Python Collatz conjecture graph plotter using matplotlib</n>
 
